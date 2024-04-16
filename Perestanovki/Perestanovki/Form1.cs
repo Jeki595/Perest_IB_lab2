@@ -16,6 +16,8 @@ namespace Perestanovki
         public Form1()
         {
             InitializeComponent();
+            // kaloed maksim
+            // ne smenil trusi
         }
 
         private void Form1_Load(object sender, EventArgs e)
