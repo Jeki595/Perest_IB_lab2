@@ -1,0 +1,10 @@
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\bin\Debug\Perestanovki.exe.config
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\bin\Debug\Perestanovki.exe
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\bin\Debug\Perestanovki.pdb
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\obj\Debug\Perestanovki.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\obj\Debug\Perestanovki.Form1.resources
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\obj\Debug\Perestanovki.Properties.Resources.resources
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\obj\Debug\Perestanovki.csproj.GenerateResource.cache
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\obj\Debug\Perestanovki.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\obj\Debug\Perestanovki.exe
+C:\Users\Evgeniy\source\repos\Perestanovki\Perestanovki\obj\Debug\Perestanovki.pdb
